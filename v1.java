@@ -2,7 +2,7 @@ package venkat;
 
 import java.util.Scanner;
 
-public class v1 {
+public class v2 {
 	
 	public static void main(String[] args) 
 	{
