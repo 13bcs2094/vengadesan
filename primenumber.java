@@ -20,6 +20,6 @@ class Primenumber {
 				temp=temp+i;
 			}
 		}
-		System.out.println("temp= "+temp);
+		System.out.println("total= "+temp);
 	}
 }
