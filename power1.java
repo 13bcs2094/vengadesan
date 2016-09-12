@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class power {
+public class power1 {
 	              
 		       public static void main(String args[])
 		       {
@@ -16,9 +16,10 @@ public class power {
 		    		i++;   
 		       }
 		    	  // System.out.println(i);
+		    	  
 		    	   for(int j=0;j<i;j++)
 		    	   {
-		    		sum=(int) Math.pow(a[j],i)+1;
+		    		sum=(int) Math.pow(a[j],a[(j+1)%i);
 		    		product=product+sum;
 		    	   }
 		    	   
